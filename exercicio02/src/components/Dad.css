@@ -1,0 +1,11 @@
+.card{
+    background-color: rgb(49, 49, 48);
+    border-radius: 20px;
+}
+
+.son{
+    background-color: rgb(36, 21, 168);
+    border-radius: 10px;
+    padding: 20px;
+    color: teal;
+}
